@@ -11,15 +11,10 @@
         echo "Test h1"
         ?>
     </h1>
-    <h2>
-        <?php 
-        echo "Test h2"
+<div>
+    <?php 
+        echo "Test add div"
         ?>
-    </h2>
-    <h1>
-        <?php 
-        echo "Test h1"
-        ?>
-    </h1>
+</div>
 </body>
 </html>
